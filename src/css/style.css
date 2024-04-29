@@ -1,1 +1,10 @@
 @import url('normalize.css');
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+*{
+    font-family: "Coming Soon", cursive;
+}
+
+h1{
+    text-align: center;
+}
